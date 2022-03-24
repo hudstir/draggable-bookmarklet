@@ -28,7 +28,7 @@ DEALINGS IN THE SOFTWARE.
 */
 
 //more or less stolen from a script in http://pastie.org/462639# by Paul Irish and an article from smashing magazine: http://coding.smashingmagazine.com/2010/05/23/make-your-own-bookmarklets-with-jquery/
-(function(){
+javascript: (function(){
 
   var v = '1.8';
 
